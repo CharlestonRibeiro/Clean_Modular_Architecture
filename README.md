@@ -60,7 +60,7 @@ Dentro da pasta `src`, encontramos os principais componentes e módulos da aplic
 #### `external`
 
 - **client**: 
-  - **dio_client.dart**: Cliente para requisições HTTP usando o pacote Dio.
+  - **dio_client:**: Cliente para requisições HTTP usando o pacote Dio.
   - **errors**: Erros específicos da camada externa.
 
 #### `modules/home`
